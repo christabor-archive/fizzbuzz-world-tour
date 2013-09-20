@@ -1,4 +1,4 @@
-000005* To install: install open-cobol (sudo-apt get open-cobol or brew install open-cobol)
+000005* To install: install open-cobol (apt-get install open-cobol or brew install open-cobol)
 000010* To run: cobc fizzbuzz.cob
 000020* Resource: http://opencobol.add1tocobol.com/
 
