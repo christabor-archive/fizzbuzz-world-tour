@@ -25,6 +25,7 @@
 * Java
 * CofeeScript
 * R
+* Shell
 
 #### Running/testing
 ------------------------------------
@@ -51,4 +52,4 @@ Some languages require compilation. You'll need to install the correct compiler 
 * Cobol
 * C++
 * Brainfuck
-* Shell
+
