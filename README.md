@@ -32,15 +32,13 @@
 
 I've tried to write files with the conventions of that particular language in mind, as best as I could find quickly and easily.
 
-I've kept it very simple: to run, I use standard bash commands, and pipe the results to a file to run a diff and thus compare results. In many cases, you will need to install an interpreter to run each file.
+I've kept it very simple: to run, I use standard bash commands, and pipe the results to a file to run a diff and thus compare results (e.g. node fizzbuzz.js >> js-test.txt).
 
-(e.g. node fizzbuzz.js >> js-test.txt)
+In many cases, you will need to install an interpreter to run each file.
 
-(note: a couple files, notably R, output the contents of the file, as well as any stdout statements. I couldn't find a way to prevent that, though I am guessing it is some kind of flag when running the file via command line.)
+**Note: a couple files, notably R, output the contents of the file, as well as any stdout statements. I couldn't find a way to prevent that, though I am guessing it is some kind of flag when running the file via command line.**
 
 Some languages require compilation. You'll need to install the correct compiler in that case. For example, I use brew install [compiler-name] for all the languages that require it.
-
-...need to test they are actually correct, but the results are at least matching.
 
 #### Unfinished
 ------------------------------------
