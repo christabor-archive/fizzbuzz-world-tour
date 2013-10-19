@@ -10,7 +10,7 @@
 * Why not!
 * P.S. Brainf*ck loops are **evil**
 
-#### List of languages currently completed:
+#### List of languages currently completed
 ------------------------------------
 
 * Python
@@ -50,4 +50,5 @@ Some languages require compilation. You'll need to install the correct compiler 
 * Cobol
 * C++
 * Brainfuck
-
+* LISP
+* ADA
