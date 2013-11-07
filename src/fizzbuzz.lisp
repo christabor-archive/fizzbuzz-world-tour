@@ -1,3 +1,37 @@
+; http://www.compileonline.com/execute_lisp_online.php
+
+
+
+(defun fbz (num)
+  (print "fizz" (= 0(mod num 3)))
+)
+
+(defun fbz2 (num)
+  (print "buzz" (= 0(mod num 3)))
+)
+
+(fbz 5)
+(fbz2 2)
+
+;(loop
+;  for i from 1 to 100 do (
+;    if(
+;      (print "fizz" (= 0(mod i 5)))
+;      (print "buzz" (= 0(mod i 3)))
+;      (print i (= 0(mod i 3)))
+;    )
+;  )
+;)
+
+(loop
+  for i from 1 to 100 do (
+    cond(
+    (= 0 (mod i 5))
+    (print "fizz")
+    (print "buzz")
+  )
+)
+
 ; resource: http://cs.gmu.edu/~sean/lisp/LispTutorial.html
 
 (loop
@@ -32,7 +66,7 @@
 ; e.g
 
 ; (if (> 3 5)
-; 	(print "fizz")
-; 	(print "buzz")
-; 	)
+;(print "fizz")
+;(print "buzz")
+;)
 
