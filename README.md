@@ -5,6 +5,10 @@
 I found this gem, and well frankly, I've kind of lost hope. I will probably get to these later, when I'm bored, but I think I know when I'm licked.
 http://rosettacode.org/wiki/FizzBuzz
 
+**Here are some more for good measure**
+http://en.wikipedia.org/wiki/Esoteric_programming_language
+http://esolangs.org/wiki/Esoteric_programming_language
+
 
 #### Why would I do this?
 ------------------------------------
