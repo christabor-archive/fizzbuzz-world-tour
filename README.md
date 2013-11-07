@@ -1,5 +1,11 @@
 ## FizzBuzz - World Tour!
 
+#### Update
+
+I found this gem, and well frankly, I've kind of lost hope. I will probably get to these later, when I'm bored, but I think I know when I'm licked.
+http://rosettacode.org/wiki/FizzBuzz
+
+
 #### Why would I do this?
 ------------------------------------
 
